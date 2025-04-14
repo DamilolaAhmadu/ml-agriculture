@@ -1,7 +1,7 @@
 # Sowing Success: How Machine Learning Helps Farmers Select the Best Crops
 
 ## Introduction
-Measuring essential soil metrics such as nitrogen, phosphorous, potassium levels, and pH value is an important aspect of assessing soil condition. However, it can also be an expensive and time-consuming process, which results in farmers to prioritize which metrics to measure based on their budget constraints.
+Measuring essential soil metrics such as nitrogen, phosphorous, potassium levels, and pH value is an important aspect of assessing soil condition. However, it can also be an expensive and time-consuming process, which results in farmers t prioritize which metrics to measure based on their budget constraints.
 
 Farmers have various options when it come to deciding which crop to plant each season. Their primary objective is to boost productivity of their crops, taking into account different factors. One crucial factor that determines crop growth is the condition of the soil in the field, which can be assessed by measuring basic elements such as nitrogen and potassium levels. Each crop has an ideal soil condition that ensures optimal growth and maximum yield.
 
