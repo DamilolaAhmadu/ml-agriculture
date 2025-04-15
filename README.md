@@ -30,6 +30,6 @@ The following features were used to train the model:
 The model was able to avoid multicollinearity by selecting features that were not highly correlated.
 
 ## Conclusion
-In this project, a machine learning model was bui  to predict the type of crop that a farmer should plant based on the soil conditions in their field. The model achieved an F1-score of 0.91 on the test set, which indicates that it is able to correctly predict the type of crop with 91% accuracy. The model was able to avoid multicollinearity by selecting features that were not highly correlated.
+In this project, a machine learning model was buil  to predict the type of crop that a farmer should plant based on the soil conditions in their field. The model achieved an F1-score of 0.91 on the test set, which indicates that it is able to correctly predict the type of crop with 91% accuracy. The model was able to avoid multicollinearity by selecting features that were not highly correlated.
 
 This model can be used by farmers to make more informed decisions about which crops to plant. By selecting the right crops for their soil conditions, farmers can maximize their crop yields and improve their profitability.
