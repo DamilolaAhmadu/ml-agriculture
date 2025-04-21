@@ -12,7 +12,7 @@ A farmer reached out to you as a machine learning expert for assistance in selec
 - "pH": value of the soil
 - "crop": categorical values that contain various crops (target variable).
 
-Each row in this dataset represents various measures of the soil in a particular field. Based on these measurements, the crop specified in the "crop" column is the optimal choice for that field.
+Each row in this dataset represent various measures of the soil in a particular field. Based on these measurements, the crop specified in the "crop" column is the optimal choice for that field.
 
 ## Dependencies
 - matplotlib
