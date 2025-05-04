@@ -1,4 +1,4 @@
- # Sowing Success: How Machine Learning Helps Farmers Select the Best Crops
+ # Sowing Success: How Machine Learning Help Farmers Select the Best Crops
 
 ## Introduction
 Measuring essential soil metrics such as nitrogen, phosphorous, potassium levels, and pH value is an important aspect of evaluating soil condition. However, it can also be a costly and time-consuming process, which results in farmers prioritizing which metrics to measure based on their financial constraints.
