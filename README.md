@@ -27,7 +27,7 @@ The following features were used to train the model:
 - Potassium content ratio in the soil (K)
 - pH value of the soil (ph)
 
-The model was able to avoid multicollinearity by selecting features that were not highly correlated.
+The model was able to avoid multi-collinearity by selecting features that were not highly correlated.
 
 ## Conclusion
 In this project, a machine learning model was built to predict the type of crop that farmers should plant based on the soil conditions in their field. The model achieved an F1-score of 0.91 on the test set, which indicates that it is able to correctly predict the type of crop with 91% accuracy. The model was able to avoid multicollinearity by selecting features that were not highly correlated.
