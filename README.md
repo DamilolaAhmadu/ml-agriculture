@@ -24,7 +24,7 @@ The model achieved a F1-score of 0.91 on the test set. This means that the model
 
 The following features were used to train the model:
 - Nitrogen content ratios in the soil (N)
-- Potassium content ratio in the soil (K)
+- Potassium content ratios in the soil (K)
 - pH value of the soil (ph)
 
 The models was able to avoid multi-collinearity by selecting features that were not highly correlated.
