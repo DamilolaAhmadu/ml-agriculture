@@ -23,7 +23,7 @@ Each row in this data set represent various measure of the soil in a particular 
 The model achieved a F1-score of 0.91 on the test set. This means that the model is able to predict correctly the type of crop with 91% accuracy.
 
 The following features were used to train the model:
-- Nitrogen content ratio in the soil (N)
+- Nitrogen content ratios in the soil (N)
 - Potassium content ratio in the soil (K)
 - pH value of the soil (ph)
 
