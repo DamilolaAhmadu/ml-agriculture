@@ -3,7 +3,7 @@
 ## Introduction
 Measuring essential soil metric such as nitrogen, phosphorous, potassium levels, and pH value is an important aspect of evaluating soil condition. However, it can also be a costly and time-consuming process, which results in farmers prioritizing which metrics to measure based on their financial constraints.
 
-Farmers have various option when it comes to deciding whi crop to plant each season. Their key objective is to boost productivity of their crops, taking into consideration different factors. One crucial factor that determines crop growth is the condition of the soil in the field, which can be assessed by measuring basic elements such as nitrogen, and potassium level. Each crop has an ideal soil condition that ensures optimal growth and maximum yield.
+Farmers have various option when it comes to deciding wh crop to plant each season. Their key objective is to boost productivity of their crops, taking into consideration different factors. One crucial factor that determines crop growth is the condition of the soil in the field, which can be assessed by measuring basic elements such as nitrogen, and potassium level. Each crop has an ideal soil condition that ensures optimal growth and maximum yield.
 
 A farmer reached out to you as a machine learning expert for assistance in selecting the best crops for her field. They have provided you with a data set called `soil_measures.csv`, which contains:
 - "N": Nitrogen content ratio in the soil
