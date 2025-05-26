@@ -10,7 +10,7 @@ Some farmers reached out to you as a machine learning expert for assistance in s
 - "P": Phosphorous content ratio in the soil
 - "K": Potassium content ratio in the soil
 - "pH": value of the soil
-- "crop": categorical value that contains various crops (target variable).
+- "crop": categorical value that contains various crops (target variables).
 
 Each row in this data set represent various measure of the soil in a particular field. Based on these measurement, the crops specified in the "crop" column is the optimal choice for that field.
 
