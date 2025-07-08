@@ -20,7 +20,7 @@ Each rows in this data set represents various measures of the soil in  particula
 - sklearn
 
 ## Results
-The model achieved a F1-score of 0.91 on the test set. This means that the model is able to predict correctly the type of crop with a 91% accuracy.
+The models achieved a F1-score of 0.91 on the test set. This means that the model is able to predict correctly the type of crop with a 91% accuracy.
 
 The following features were used to train the model:
 - Nitrogen content ratios in the soil (N)
